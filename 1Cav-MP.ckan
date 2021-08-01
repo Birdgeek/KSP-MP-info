@@ -1,12 +1,12 @@
 {
     "spec_version": "v1.18",
-    "identifier": "1Cav-KSP-MP",
-    "name": "1Cav-KSP-MP",
+    "identifier": "installed-Kerbal-Space-Program",
+    "name": "installed-Kerbal Space Program",
     "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": [
-        "Snurka"
+        "birdg"
     ],
-    "version": "2021.08.01.12.58.03",
+    "version": "2021.08.01.01.41.55",
     "license": [
         "unknown"
     ],
@@ -18,6 +18,10 @@
         {
             "name": "DarkMultiPlayer",
             "version": "v0.3.8.0"
+        },
+        {
+            "name": "HideEmptyTechNodes",
+            "version": "1.3.0"
         },
         {
             "name": "MakingHistory-DLC",
@@ -95,5 +99,5 @@
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2021-07-31T18:58:03.6929316-06:00"
+    "release_date": "2021-07-31T19:41:55.4234362-06:00"
 }
