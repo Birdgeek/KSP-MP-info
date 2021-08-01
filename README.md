@@ -19,3 +19,8 @@
 13. Click Add Server
 14. To join, click the sever button as you've named it in the server list under the DMP pane.
 ![DMP pane](DMPpane.png)
+
+
+# Once Loading the game
+You can safely ignore any warnings about MechJeb2 being incompatible. It's fine.
+Please click the Sync button withing the DMP pane to the person further ahead each time before you launch. This is so that we will all stay mostly in sync and if one player puts up a comm sat, the other player's launch can utilize that comm sat.
