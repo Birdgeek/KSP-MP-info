@@ -14,10 +14,6 @@
     ],
     "depends": [
         {
-            "name": "MakingHistory-DLC",
-            "version": "(unmanaged)"
-        },
-        {
             "name": "AstronomersVisualPack",
             "version": "3:v4.11"
         },
