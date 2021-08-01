@@ -3,7 +3,7 @@
 # How to join the server from step 1
 
 1. Download the latest version of KSP from Steam
-2. Download the latest version of [CKAN](https://github.com/KSP-CKAN/CKAN/releases)
+2. Download the latest version of [CKAN](https://github.com/KSP-CKAN/CKAN/releases/download/v1.30.4/ckan.exe)
 	1. Install CKAN, pointing to the Build64ID.txt file in your Steam's KSP Install Directory
 3. Download the [CKAN Modlist](https://github.com/Birdgeek/KSP-MP-info/releases/download/Science-start/1Cav-MP.ckan) File from this Repo
 4. Within the CKAN application click File > Install from .ckan > Browse to where you just downloaded the CKAN Modlist file to > select this file
