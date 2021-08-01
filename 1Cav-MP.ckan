@@ -1,0 +1,99 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "1Cav-KSP-MP",
+    "name": "1Cav-KSP-MP",
+    "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
+    "author": [
+        "Snurka"
+    ],
+    "version": "2021.08.01.12.58.03",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "KerbalEngineerRedux",
+            "version": "1.1.9.0"
+        },
+        {
+            "name": "DarkMultiPlayer",
+            "version": "v0.3.8.0"
+        },
+        {
+            "name": "MakingHistory-DLC",
+            "version": "(unmanaged)"
+        },
+        {
+            "name": "CommunityTechTree",
+            "version": "1:3.4.4"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements-HR",
+            "version": "2:EVE-1.2.2-1"
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0772"
+        },
+        {
+            "name": "Scatterer-config",
+            "version": "3:v0.0772"
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "version": "3:v0.0772"
+        },
+        {
+            "name": "ModuleManager",
+            "version": "4.1.4"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "version": "3:1.11.3.1"
+        },
+        {
+            "name": "RealPlume",
+            "version": "2:v13.3.2"
+        },
+        {
+            "name": "SmokeScreen",
+            "version": "2.8.14.0"
+        },
+        {
+            "name": "RealPlume-StockConfigs",
+            "version": "v4.0.8"
+        },
+        {
+            "name": "MechJeb2",
+            "version": "2.12.0.0"
+        },
+        {
+            "name": "MechJebForAll",
+            "version": "1.3.0.7"
+        },
+        {
+            "name": "ScienceAlert",
+            "version": "1.9.9.3"
+        },
+        {
+            "name": "ToolbarController",
+            "version": "1:0.1.9.4"
+        },
+        {
+            "name": "ClickThroughBlocker",
+            "version": "1:0.1.10.17"
+        },
+        {
+            "name": "ZeroMiniAVC",
+            "version": "1:1.1.0.2"
+        },
+        {
+            "name": "Toolbar",
+            "version": "1:1.8.0.5"
+        }
+    ],
+    "recommends": [],
+    "suggests": [],
+    "kind": "metapackage",
+    "release_date": "2021-07-31T18:58:03.6929316-06:00"
+}
