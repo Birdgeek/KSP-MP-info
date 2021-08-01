@@ -24,3 +24,15 @@
 # Once Loading the game
 You can safely ignore any warnings about MechJeb2 being incompatible. It's fine.
 Please click the Sync button withing the DMP pane to the person further ahead each time before you launch. This is so that we will all stay mostly in sync and if one player puts up a comm sat, the other player's launch can utilize that comm sat.
+
+On the Click Through Blocker Pane when first login, select Focus-Follows-Mouse > Save as global default for all new saves > Accept
+On the Toolbat Controller Intro > Hide this window at startup
+
+Feel free to minimize the DMP chat by click the chat button in the DMP pane
+Craft = Allows for sharing craft between people from the VAB
+Group = The group the craft are shared via
+Permissions = IDK
+Screenshot = Screenshot
+- = Minimize, turns into + to Maximze
+
+Feel free to randomize a color under the DMP pane > Options
