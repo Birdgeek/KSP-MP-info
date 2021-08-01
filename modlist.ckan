@@ -2,11 +2,11 @@
     "spec_version": "v1.18",
     "identifier": "Science-MP",
     "name": "Science-MP",
-    "abstract": "Sciene Multiplayer List",
+    "abstract": "Snurka's Science-MP",
     "author": [
         "Snurka"
     ],
-    "version": "2021.08.01.09.50.21",
+    "version": "2021.08.01.09.59.43",
     "ksp_version_min": "1.12.1",
     "ksp_version_max": "1.12.1",
     "license": [
@@ -96,10 +96,14 @@
         {
             "name": "MechJebForAll",
             "version": "1.3.0.7"
+        },
+        {
+            "name": "DarkMultiPlayer",
+            "version": "v0.3.8.0"
         }
     ],
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2021-08-01T15:50:21.639524-06:00"
+    "release_date": "2021-08-01T15:59:43.4344595-06:00"
 }
