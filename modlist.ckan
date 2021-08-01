@@ -100,7 +100,11 @@
         {
             "name": "DarkMultiPlayer",
             "version": "v0.3.8.0"
-        }
+        },
+        {
+            "name": "ScienceAlert",
+            "version": "1.9.9.3"
+        }		
     ],
     "recommends": [],
     "suggests": [],
