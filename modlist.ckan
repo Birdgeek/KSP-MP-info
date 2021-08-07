@@ -1,21 +1,43 @@
 {
     "spec_version": "v1.18",
-    "identifier": "Science-MP",
-    "name": "Science-MP",
-    "abstract": "Snurka's Science-MP",
+    "identifier": "installed-Kerbal-Space-Program",
+    "name": "installed-Kerbal Space Program",
+    "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
     "author": [
-        "Snurka"
+        "birdg"
     ],
-    "version": "2021.08.01.09.59.43",
-    "ksp_version_min": "1.12.1",
-    "ksp_version_max": "1.12.1",
+    "version": "2021.08.07.04.47.12",
     "license": [
         "unknown"
     ],
     "depends": [
         {
+            "name": "MakingHistory-DLC",
+            "version": "(unmanaged)"
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "version": "3:v0.0772"
+        },
+        {
             "name": "AstronomersVisualPack",
             "version": "3:v4.11"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "version": "3:1.11.3.1"
+        },
+        {
+            "name": "Scatterer",
+            "version": "3:v0.0772"
+        },
+        {
+            "name": "Scatterer-config",
+            "version": "3:v0.0772"
+        },
+        {
+            "name": "ModuleManager",
+            "version": "4.2.1"
         },
         {
             "name": "AVP-2kTextures",
@@ -24,6 +46,14 @@
         {
             "name": "ClickThroughBlocker",
             "version": "1:0.1.10.17"
+        },
+        {
+            "name": "ZeroMiniAVC",
+            "version": "1:1.1.0.2"
+        },
+        {
+            "name": "ToolbarController",
+            "version": "1:0.1.9.4"
         },
         {
             "name": "CommunityTechTree",
@@ -50,52 +80,16 @@
             "version": "2:v13.3.2"
         },
         {
-            "name": "RealPlume-StockConfigs",
-            "version": "v4.0.8"
-        },
-        {
-            "name": "Scatterer",
-            "version": "3:v0.0772"
-        },
-        {
-            "name": "Scatterer-config",
-            "version": "3:v0.0772"
-        },
-        {
-            "name": "TextureReplacer",
-            "version": "v4.5.1"
-        },
-        {
-            "name": "Scatterer-sunflare",
-            "version": "3:v0.0772"
-        },
-        {
-            "name": "EnvironmentalVisualEnhancements",
-            "version": "3:1.11.3.1"
-        },
-        {
-            "name": "ModuleManager",
-            "version": "4.2.1"
-        },
-        {
-            "name": "ZeroMiniAVC",
-            "version": "1:1.1.0.2"
-        },
-        {
-            "name": "ToolbarController",
-            "version": "1:0.1.9.4"
-        },
-        {
             "name": "SmokeScreen",
             "version": "2.8.14.0"
         },
         {
-            "name": "MechJeb2",
-            "version": "2.12.0.0"
+            "name": "RealPlume-StockConfigs",
+            "version": "v4.0.8"
         },
         {
-            "name": "MechJebForAll",
-            "version": "1.3.0.7"
+            "name": "TextureReplacer",
+            "version": "v4.5.1"
         },
         {
             "name": "DarkMultiPlayer",
@@ -104,10 +98,10 @@
         {
             "name": "ScienceAlert",
             "version": "1.9.9.3"
-        }		
+        }
     ],
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2021-08-01T15:59:43.4344595-06:00"
+    "release_date": "2021-08-06T22:47:12.4330847-06:00"
 }
